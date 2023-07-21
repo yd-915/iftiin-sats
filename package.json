@@ -59,6 +59,7 @@
     "@types/google-map-react": "^2.1.7",
     "@types/jsonwebtoken": "^9.0.1",
     "@types/pg": "^8.6.6",
+    "next": "13.0.2",
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.21",
     "prisma": "^4.12.0",
